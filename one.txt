@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi
 hello
 =======
+=======
+>>>>>>> ea78e59... modify
 hi.
 hello.
 >>>>>>> ea78e59... modify
