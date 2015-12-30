@@ -9,3 +9,4 @@ hi.
 hello.
 >>>>>>> ea78e59... modify
 git master.
+for fetch.
