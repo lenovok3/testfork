@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 hi
 hello
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> ea78e59... modify
@@ -9,3 +10,7 @@ hi.
 hello.
 >>>>>>> ea78e59... modify
 git master.
+=======
+git master.
+rebase
+>>>>>>> rebase
